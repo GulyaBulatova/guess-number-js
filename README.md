@@ -12,7 +12,7 @@
 
 ## Инструкция по запуску игры
 
-1. Перейти по ссылке : <https://tictac705.github.io/guess-number_js/>
+1. Перейти по ссылке : <https://gulyabulatova.github.io/guess-number-js/>
 2. Следовать указанием игры.
 
 * * *
